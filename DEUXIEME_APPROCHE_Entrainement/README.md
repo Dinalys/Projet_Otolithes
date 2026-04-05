@@ -19,5 +19,5 @@ incluses dans ce dépôt.
 - df_final.csv : métadonnées biologiques
 
 ## Notebooks
-- Unetrapid_projtech.ipynb : pipeline U-Net ResNet18
-- Approche2projettech_unetdeeplab.ipynb : pipeline DeepLab V3+
+- Unet_rapid.ipynb : pipeline U-Net ResNet18
+- unet_deeplab.ipynb : pipeline DeepLab V3+
